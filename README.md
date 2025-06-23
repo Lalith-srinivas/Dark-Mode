@@ -15,6 +15,7 @@ A simple project that toggles between light and dark themes using HTML, CSS, and
 
 ## 🚀 Live Demo
 [Click here to view](https://lalith-srinivas.github.io/Dark-Mode/)
+[Netlify](dark-light-mode-toggle-button.netlify.app).
 
 
 ## 📚 What I Learned
