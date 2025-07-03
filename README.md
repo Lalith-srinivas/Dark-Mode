@@ -25,4 +25,4 @@ A simple project that toggles between light and dark themes using HTML, CSS, and
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn](www.linkedin.com/in/lalith-pattem-81888a32b 
+- [LinkedIn](www.linkedin.com/in/lalith-pattem
